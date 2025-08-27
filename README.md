@@ -2,4 +2,4 @@
 first change for squash practice
 second change for squash practice
 third change for squash practice
-this edit was done on main branch
+this edit was done on merge-conflict-practice branch
